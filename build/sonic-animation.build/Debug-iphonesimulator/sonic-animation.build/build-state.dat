@@ -1,0 +1,712 @@
+Tsonic-animation
+v7
+r0
+t518462414.459325
+cCheck dependencies
+cProcessInfoPlistFile /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/Info.plist sonic_animation-Info.plist
+cCompileXIB /Users/sbarghshoon/Desktop/sonic-animation/MainWindow.xib
+cCompileXIB /Users/sbarghshoon/Desktop/sonic-animation/sonic_animationViewController.xib
+cCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic1.jpg ../sonic1.jpg
+cCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic2.jpg ../sonic2.jpg
+cCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic3.jpg ../sonic3.jpg
+cCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic4.jpg ../sonic4.jpg
+cCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic5.jpg ../sonic5.jpg
+cCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic6.jpg ../sonic6.jpg
+cCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic7.jpg ../sonic7.jpg
+cCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic8.jpg ../sonic8.jpg
+cCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic9.jpg ../sonic9.jpg
+cCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic10.jpg ../sonic10.jpg
+cCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic11.jpg ../sonic11.jpg
+cCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic12.jpg ../sonic12.jpg
+cCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic13.jpg ../sonic13.jpg
+cCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic14.jpg ../sonic14.jpg
+cCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic15.jpg ../sonic15.jpg
+cCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic16.jpg ../sonic16.jpg
+cCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic17.jpg ../sonic17.jpg
+cCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic18.jpg ../sonic18.jpg
+cCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic19.jpg ../sonic19.jpg
+cCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic20.jpg ../sonic20.jpg
+cCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic21.jpg ../sonic21.jpg
+cCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic22.jpg ../sonic22.jpg
+cCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic23.jpg ../sonic23.jpg
+cCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic24.jpg ../sonic24.jpg
+cProcessPCH /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/sonic_animation_Prefix-eaxpiinvyvwlwdemgjjicghpadhv/sonic_animation_Prefix.pch.gch sonic_animation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/Objects-normal/i386/main.o /Users/sbarghshoon/Desktop/sonic-animation/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/Objects-normal/i386/sonic_animationAppDelegate.o /Users/sbarghshoon/Desktop/sonic-animation/Classes/sonic_animationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/Objects-normal/i386/sonic_animationViewController.o /Users/sbarghshoon/Desktop/sonic-animation/Classes/sonic_animationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic-animation normal i386
+cGenerateDSYMFile /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app.dSYM /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic-animation
+cTouch /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/sbarghshoon/Desktop/sonic-animation/../sonic1.jpg
+c000000005936C8CF000000000001758F
+t1496762575
+s95631
+
+N/Users/sbarghshoon/Desktop/sonic-animation/../sonic10.jpg
+c000000005936C9B7000000000000F8B0
+t1496762807
+s63664
+
+N/Users/sbarghshoon/Desktop/sonic-animation/../sonic11.jpg
+c000000005936CA45000000000001050E
+t1496762949
+s66830
+
+N/Users/sbarghshoon/Desktop/sonic-animation/../sonic12.jpg
+c000000005936CA7F00000000000125A1
+t1496763007
+s75169
+
+N/Users/sbarghshoon/Desktop/sonic-animation/../sonic13.jpg
+c000000005936CAA30000000000017CBE
+t1496763043
+s97470
+
+N/Users/sbarghshoon/Desktop/sonic-animation/../sonic14.jpg
+c000000005936CB57000000000001217A
+t1496763223
+s74106
+
+N/Users/sbarghshoon/Desktop/sonic-animation/../sonic15.jpg
+c000000005936CBCA0000000000010079
+t1496763338
+s65657
+
+N/Users/sbarghshoon/Desktop/sonic-animation/../sonic16.jpg
+c000000005936CBE4000000000000FA82
+t1496763364
+s64130
+
+N/Users/sbarghshoon/Desktop/sonic-animation/../sonic17.jpg
+c000000005936CC0400000000000104FE
+t1496763396
+s66814
+
+N/Users/sbarghshoon/Desktop/sonic-animation/../sonic18.jpg
+c000000005936CC21000000000001516E
+t1496763425
+s86382
+
+N/Users/sbarghshoon/Desktop/sonic-animation/../sonic19.jpg
+c000000005936CC400000000000013331
+t1496763456
+s78641
+
+N/Users/sbarghshoon/Desktop/sonic-animation/../sonic2.jpg
+c000000005936C8000000000000012210
+t1496762368
+s74256
+
+N/Users/sbarghshoon/Desktop/sonic-animation/../sonic20.jpg
+c000000005936CC5C00000000000107E8
+t1496763484
+s67560
+
+N/Users/sbarghshoon/Desktop/sonic-animation/../sonic21.jpg
+c000000005936CCA3000000000000F7BA
+t1496763555
+s63418
+
+N/Users/sbarghshoon/Desktop/sonic-animation/../sonic22.jpg
+c000000005936CCBE000000000000FE1E
+t1496763582
+s65054
+
+N/Users/sbarghshoon/Desktop/sonic-animation/../sonic23.jpg
+c000000005936CCDE00000000000118BC
+t1496763614
+s71868
+
+N/Users/sbarghshoon/Desktop/sonic-animation/../sonic24.jpg
+c000000005936CD030000000000017041
+t1496763651
+s94273
+
+N/Users/sbarghshoon/Desktop/sonic-animation/../sonic3.jpg
+c000000005936C82600000000000100F1
+t1496762406
+s65777
+
+N/Users/sbarghshoon/Desktop/sonic-animation/../sonic4.jpg
+c000000005936C850000000000000F8BA
+t1496762448
+s63674
+
+N/Users/sbarghshoon/Desktop/sonic-animation/../sonic5.jpg
+c000000005936C8810000000000010473
+t1496762497
+s66675
+
+N/Users/sbarghshoon/Desktop/sonic-animation/../sonic6.jpg
+c000000005936C8FB000000000001259E
+t1496762619
+s75166
+
+N/Users/sbarghshoon/Desktop/sonic-animation/../sonic7.jpg
+c000000005936C92C0000000000017D53
+t1496762668
+s97619
+
+N/Users/sbarghshoon/Desktop/sonic-animation/../sonic8.jpg
+c000000005936C961000000000001212E
+t1496762721
+s74030
+
+N/Users/sbarghshoon/Desktop/sonic-animation/../sonic9.jpg
+c000000005936C9890000000000010043
+t1496762761
+s65603
+
+N/Users/sbarghshoon/Desktop/sonic-animation/Classes/sonic_animationAppDelegate.h
+c000000005936DFF00000000000000211
+t1496768496
+s529
+i<UIKit/UIKit.h>
+
+N/Users/sbarghshoon/Desktop/sonic-animation/Classes/sonic_animationAppDelegate.m
+c000000005936DFF00000000000000AD4
+t1496768496
+s2772
+i"sonic_animationAppDelegate.h"
+i"sonic_animationViewController.h"
+
+N/Users/sbarghshoon/Desktop/sonic-animation/Classes/sonic_animationViewController.h
+c000000005936E039000000000000015B
+t1496768569
+s347
+i<UIKit/UIKit.h>
+
+N/Users/sbarghshoon/Desktop/sonic-animation/Classes/sonic_animationViewController.m
+c000000005936E44C0000000000000B7C
+t1496769612
+s2940
+i"sonic_animationViewController.h"
+
+N/Users/sbarghshoon/Desktop/sonic-animation/MainWindow.xib
+c000000005936DFF00000000000004E89
+t1496768496
+s20105
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app
+t1496769614
+s1054
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app.dSYM
+t1496769614
+s102
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/Info.plist
+t1496769597
+s629
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/MainWindow.nib
+t1496769597
+s1697
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/PkgInfo
+t1496769597
+s8
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic-animation
+t1496769614
+s18264
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic1.jpg
+t1496769597
+s95631
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic10.jpg
+t1496769597
+s63664
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic11.jpg
+t1496769597
+s66830
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic12.jpg
+t1496769597
+s75169
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic13.jpg
+t1496769597
+s97470
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic14.jpg
+t1496769597
+s74106
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic15.jpg
+t1496769597
+s65657
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic16.jpg
+t1496769597
+s64130
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic17.jpg
+t1496769597
+s66814
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic18.jpg
+t1496769597
+s86382
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic19.jpg
+t1496769597
+s78641
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic2.jpg
+t1496769597
+s74256
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic20.jpg
+t1496769597
+s67560
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic21.jpg
+t1496769597
+s63418
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic22.jpg
+t1496769597
+s65054
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic23.jpg
+t1496769597
+s71868
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic24.jpg
+t1496769597
+s94273
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic3.jpg
+t1496769597
+s65777
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic4.jpg
+t1496769597
+s63674
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic5.jpg
+t1496769597
+s66675
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic6.jpg
+t1496769597
+s75166
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic7.jpg
+t1496769597
+s97619
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic8.jpg
+t1496769597
+s74030
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic9.jpg
+t1496769597
+s65603
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic_animationViewController.nib
+t1496769597
+s3371
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/Objects-normal/i386/main.o
+t1496769598
+s6320
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/Objects-normal/i386/sonic-animation.LinkFileList
+c000000005936E43D00000000000001D9
+t1496769597
+s473
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/Objects-normal/i386/sonic_animationAppDelegate.o
+t1496769598
+s51852
+
+N/Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/Objects-normal/i386/sonic_animationViewController.o
+t1496769614
+s45492
+
+N/Users/sbarghshoon/Desktop/sonic-animation/main.m
+c000000005936DFF00000000000000173
+t1496768496
+s371
+i<UIKit/UIKit.h>
+
+N/Users/sbarghshoon/Desktop/sonic-animation/sonic_animationViewController.xib
+c000000005936E41E000000000000566A
+t1496769566
+s22122
+
+N/Users/sbarghshoon/Desktop/sonic-animation/sonic_animation_Prefix.pch
+c000000005936DFF000000000000000C7
+t1496768496
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/sonic_animation_Prefix-eaxpiinvyvwlwdemgjjicghpadhv/sonic_animation_Prefix.pch.gch
+t1496769598
+s15814064
+
+Nsonic_animation-Info.plist
+c000000005936DFF0000000000000038D
+t1496768496
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies518462414#518462414#0(0"0(0#1#0"31244212048494624#0"0#
+
+CCompileC build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/Objects-normal/i386/main.o /Users/sbarghshoon/Desktop/sonic-animation/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s518462398.402932
+e518462398.436727
+r1
+xCompileC
+xbuild/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/Objects-normal/i386/main.o
+x/Users/sbarghshoon/Desktop/sonic-animation/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/sbarghshoon/Desktop/sonic-animation/main.m518462398#518462398#0(0"0(0#0#49"/Users/sbarghshoon/Desktop/sonic-animation/main.m8612863200#2118"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/sonic-animation-generated-files.hmap -I/Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/sonic-animation-own-target-headers.hmap -I/Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/sonic-animation-all-target-headers.hmap -iquote /Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/sonic-animation-project-headers.hmap -F/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator -I/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/include -I/Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/DerivedSources/i386 -I/Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/DerivedSources -include /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/sonic_animation_Prefix-eaxpiinvyvwlwdemgjjicghpadhv/sonic_animation_Prefix.pch -c /Users/sbarghshoon/Desktop/sonic-animation/main.m -o /Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/Objects-normal/i386/main.o0#
+
+CCompileC build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/Objects-normal/i386/sonic_animationAppDelegate.o /Users/sbarghshoon/Desktop/sonic-animation/Classes/sonic_animationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s518462398.403596
+e518462398.449438
+r1
+xCompileC
+xbuild/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/Objects-normal/i386/sonic_animationAppDelegate.o
+x/Users/sbarghshoon/Desktop/sonic-animation/Classes/sonic_animationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/sbarghshoon/Desktop/sonic-animation/Classes/sonic_animationAppDelegate.m518462398#518462398#0(0"0(0#0#79"/Users/sbarghshoon/Desktop/sonic-animation/Classes/sonic_animationAppDelegate.m8612769088#2170"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/sonic-animation-generated-files.hmap -I/Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/sonic-animation-own-target-headers.hmap -I/Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/sonic-animation-all-target-headers.hmap -iquote /Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/sonic-animation-project-headers.hmap -F/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator -I/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/include -I/Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/DerivedSources/i386 -I/Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/DerivedSources -include /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/sonic_animation_Prefix-eaxpiinvyvwlwdemgjjicghpadhv/sonic_animation_Prefix.pch -c /Users/sbarghshoon/Desktop/sonic-animation/Classes/sonic_animationAppDelegate.m -o /Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/Objects-normal/i386/sonic_animationAppDelegate.o0#
+
+CCompileC build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/Objects-normal/i386/sonic_animationViewController.o /Users/sbarghshoon/Desktop/sonic-animation/Classes/sonic_animationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s518462414.347243
+e518462414.429912
+r1
+xCompileC
+xbuild/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/Objects-normal/i386/sonic_animationViewController.o
+x/Users/sbarghshoon/Desktop/sonic-animation/Classes/sonic_animationViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/sbarghshoon/Desktop/sonic-animation/Classes/sonic_animationViewController.m518462414#518462414#0(0"0(0#0#82"/Users/sbarghshoon/Desktop/sonic-animation/Classes/sonic_animationViewController.m8614035424#2176"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/sonic-animation-generated-files.hmap -I/Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/sonic-animation-own-target-headers.hmap -I/Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/sonic-animation-all-target-headers.hmap -iquote /Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/sonic-animation-project-headers.hmap -F/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator -I/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/include -I/Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/DerivedSources/i386 -I/Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/DerivedSources -include /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/sonic_animation_Prefix-eaxpiinvyvwlwdemgjjicghpadhv/sonic_animation_Prefix.pch -c /Users/sbarghshoon/Desktop/sonic-animation/Classes/sonic_animationViewController.m -o /Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/Objects-normal/i386/sonic_animationViewController.o0#
+
+CCompileXIB /Users/sbarghshoon/Desktop/sonic-animation/MainWindow.xib
+s518462397.466553
+e518462397.732190
+r1
+xCompileXIB
+x/Users/sbarghshoon/Desktop/sonic-animation/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib518462397#518462397#0(0"0(0#0#57"/Users/sbarghshoon/Desktop/sonic-animation/MainWindow.xib8612614496#590"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/MainWindow.nib /Users/sbarghshoon/Desktop/sonic-animation/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/sbarghshoon/Desktop/sonic-animation/sonic_animationViewController.xib
+s518462397.469299
+e518462397.817515
+r1
+xCompileXIB
+x/Users/sbarghshoon/Desktop/sonic-animation/sonic_animationViewController.xib
+lSLF07#2@44"CompileXIB sonic_animationViewController.xib518462397#518462397#0(0"0(0#0#76"/Users/sbarghshoon/Desktop/sonic-animation/sonic_animationViewController.xib8612378272#628"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic_animationViewController.nib /Users/sbarghshoon/Desktop/sonic-animation/sonic_animationViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic1.jpg ../sonic1.jpg
+s518462397.469778
+e518462397.480072
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sonic-animation.app/sonic1.jpg
+x../sonic1.jpg
+lSLF07#2@18"Copy ../sonic1.jpg518462397#518462397#0(0"0(0#0#56"/Users/sbarghshoon/Desktop/sonic-animation/../sonic1.jpg8604743648#491"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/sonic-animation/../sonic1.jpg /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic10.jpg ../sonic10.jpg
+s518462397.480550
+e518462397.491601
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sonic-animation.app/sonic10.jpg
+x../sonic10.jpg
+lSLF07#2@19"Copy ../sonic10.jpg518462397#518462397#0(0"0(0#0#57"/Users/sbarghshoon/Desktop/sonic-animation/../sonic10.jpg8611454784#492"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/sonic-animation/../sonic10.jpg /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic11.jpg ../sonic11.jpg
+s518462397.481161
+e518462397.491755
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sonic-animation.app/sonic11.jpg
+x../sonic11.jpg
+lSLF07#2@19"Copy ../sonic11.jpg518462397#518462397#0(0"0(0#0#57"/Users/sbarghshoon/Desktop/sonic-animation/../sonic11.jpg8612033088#492"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/sonic-animation/../sonic11.jpg /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic12.jpg ../sonic12.jpg
+s518462397.481734
+e518462397.493189
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sonic-animation.app/sonic12.jpg
+x../sonic12.jpg
+lSLF07#2@19"Copy ../sonic12.jpg518462397#518462397#0(0"0(0#0#57"/Users/sbarghshoon/Desktop/sonic-animation/../sonic12.jpg8611161152#492"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/sonic-animation/../sonic12.jpg /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic13.jpg ../sonic13.jpg
+s518462397.482646
+e518462397.493326
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sonic-animation.app/sonic13.jpg
+x../sonic13.jpg
+lSLF07#2@19"Copy ../sonic13.jpg518462397#518462397#0(0"0(0#0#57"/Users/sbarghshoon/Desktop/sonic-animation/../sonic13.jpg8598598944#492"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/sonic-animation/../sonic13.jpg /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic14.jpg ../sonic14.jpg
+s518462397.483698
+e518462397.495798
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sonic-animation.app/sonic14.jpg
+x../sonic14.jpg
+lSLF07#2@19"Copy ../sonic14.jpg518462397#518462397#0(0"0(0#0#57"/Users/sbarghshoon/Desktop/sonic-animation/../sonic14.jpg8613906912#492"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/sonic-animation/../sonic14.jpg /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic15.jpg ../sonic15.jpg
+s518462397.484339
+e518462397.497618
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sonic-animation.app/sonic15.jpg
+x../sonic15.jpg
+lSLF07#2@19"Copy ../sonic15.jpg518462397#518462397#0(0"0(0#0#57"/Users/sbarghshoon/Desktop/sonic-animation/../sonic15.jpg8603489664#492"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/sonic-animation/../sonic15.jpg /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic16.jpg ../sonic16.jpg
+s518462397.488437
+e518462397.499449
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sonic-animation.app/sonic16.jpg
+x../sonic16.jpg
+lSLF07#2@19"Copy ../sonic16.jpg518462397#518462397#0(0"0(0#0#57"/Users/sbarghshoon/Desktop/sonic-animation/../sonic16.jpg8612252864#492"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/sonic-animation/../sonic16.jpg /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic17.jpg ../sonic17.jpg
+s518462397.490430
+e518462397.501490
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sonic-animation.app/sonic17.jpg
+x../sonic17.jpg
+lSLF07#2@19"Copy ../sonic17.jpg518462397#518462397#0(0"0(0#0#57"/Users/sbarghshoon/Desktop/sonic-animation/../sonic17.jpg8614498784#492"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/sonic-animation/../sonic17.jpg /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic18.jpg ../sonic18.jpg
+s518462397.491896
+e518462397.501722
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sonic-animation.app/sonic18.jpg
+x../sonic18.jpg
+lSLF07#2@19"Copy ../sonic18.jpg518462397#518462397#0(0"0(0#0#57"/Users/sbarghshoon/Desktop/sonic-animation/../sonic18.jpg8604485408#492"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/sonic-animation/../sonic18.jpg /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic19.jpg ../sonic19.jpg
+s518462397.492511
+e518462397.502695
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sonic-animation.app/sonic19.jpg
+x../sonic19.jpg
+lSLF07#2@19"Copy ../sonic19.jpg518462397#518462397#0(0"0(0#0#57"/Users/sbarghshoon/Desktop/sonic-animation/../sonic19.jpg8611216608#492"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/sonic-animation/../sonic19.jpg /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic2.jpg ../sonic2.jpg
+s518462397.470328
+e518462397.479202
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sonic-animation.app/sonic2.jpg
+x../sonic2.jpg
+lSLF07#2@18"Copy ../sonic2.jpg518462397#518462397#0(0"0(0#0#56"/Users/sbarghshoon/Desktop/sonic-animation/../sonic2.jpg8614412448#491"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/sonic-animation/../sonic2.jpg /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic20.jpg ../sonic20.jpg
+s518462397.493401
+e518462397.504290
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sonic-animation.app/sonic20.jpg
+x../sonic20.jpg
+lSLF07#2@19"Copy ../sonic20.jpg518462397#518462397#0(0"0(0#0#57"/Users/sbarghshoon/Desktop/sonic-animation/../sonic20.jpg8612770848#492"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/sonic-animation/../sonic20.jpg /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic21.jpg ../sonic21.jpg
+s518462397.493994
+e518462397.504104
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sonic-animation.app/sonic21.jpg
+x../sonic21.jpg
+lSLF07#2@19"Copy ../sonic21.jpg518462397#518462397#0(0"0(0#0#57"/Users/sbarghshoon/Desktop/sonic-animation/../sonic21.jpg8614296480#492"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/sonic-animation/../sonic21.jpg /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic22.jpg ../sonic22.jpg
+s518462397.495900
+e518462397.505989
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sonic-animation.app/sonic22.jpg
+x../sonic22.jpg
+lSLF07#2@19"Copy ../sonic22.jpg518462397#518462397#0(0"0(0#0#57"/Users/sbarghshoon/Desktop/sonic-animation/../sonic22.jpg8612861664#492"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/sonic-animation/../sonic22.jpg /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic23.jpg ../sonic23.jpg
+s518462397.497703
+e518462397.508005
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sonic-animation.app/sonic23.jpg
+x../sonic23.jpg
+lSLF07#2@19"Copy ../sonic23.jpg518462397#518462397#0(0"0(0#0#57"/Users/sbarghshoon/Desktop/sonic-animation/../sonic23.jpg8612203744#492"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/sonic-animation/../sonic23.jpg /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic24.jpg ../sonic24.jpg
+s518462397.499537
+e518462397.508457
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sonic-animation.app/sonic24.jpg
+x../sonic24.jpg
+lSLF07#2@19"Copy ../sonic24.jpg518462397#518462397#0(0"0(0#0#57"/Users/sbarghshoon/Desktop/sonic-animation/../sonic24.jpg8611789696#492"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/sonic-animation/../sonic24.jpg /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic3.jpg ../sonic3.jpg
+s518462397.470705
+e518462397.480212
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sonic-animation.app/sonic3.jpg
+x../sonic3.jpg
+lSLF07#2@18"Copy ../sonic3.jpg518462397#518462397#0(0"0(0#0#56"/Users/sbarghshoon/Desktop/sonic-animation/../sonic3.jpg8614282016#491"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/sonic-animation/../sonic3.jpg /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic4.jpg ../sonic4.jpg
+s518462397.471087
+e518462397.480335
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sonic-animation.app/sonic4.jpg
+x../sonic4.jpg
+lSLF07#2@18"Copy ../sonic4.jpg518462397#518462397#0(0"0(0#0#56"/Users/sbarghshoon/Desktop/sonic-animation/../sonic4.jpg8614104544#491"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/sonic-animation/../sonic4.jpg /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic5.jpg ../sonic5.jpg
+s518462397.471520
+e518462397.480472
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sonic-animation.app/sonic5.jpg
+x../sonic5.jpg
+lSLF07#2@18"Copy ../sonic5.jpg518462397#518462397#0(0"0(0#0#56"/Users/sbarghshoon/Desktop/sonic-animation/../sonic5.jpg8613619072#491"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/sonic-animation/../sonic5.jpg /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic6.jpg ../sonic6.jpg
+s518462397.472096
+e518462397.488334
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sonic-animation.app/sonic6.jpg
+x../sonic6.jpg
+lSLF07#2@18"Copy ../sonic6.jpg518462397#518462397#0(0"0(0#0#56"/Users/sbarghshoon/Desktop/sonic-animation/../sonic6.jpg8613281728#491"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/sonic-animation/../sonic6.jpg /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic7.jpg ../sonic7.jpg
+s518462397.472668
+e518462397.483474
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sonic-animation.app/sonic7.jpg
+x../sonic7.jpg
+lSLF07#2@18"Copy ../sonic7.jpg518462397#518462397#0(0"0(0#0#56"/Users/sbarghshoon/Desktop/sonic-animation/../sonic7.jpg8613151136#491"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/sonic-animation/../sonic7.jpg /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic8.jpg ../sonic8.jpg
+s518462397.473211
+e518462397.483617
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sonic-animation.app/sonic8.jpg
+x../sonic8.jpg
+lSLF07#2@18"Copy ../sonic8.jpg518462397#518462397#0(0"0(0#0#56"/Users/sbarghshoon/Desktop/sonic-animation/../sonic8.jpg8612035456#491"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/sonic-animation/../sonic8.jpg /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app0#
+
+CCpResource build/Debug-iphonesimulator/sonic-animation.app/sonic9.jpg ../sonic9.jpg
+s518462397.479306
+e518462397.490297
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sonic-animation.app/sonic9.jpg
+x../sonic9.jpg
+lSLF07#2@18"Copy ../sonic9.jpg518462397#518462397#0(0"0(0#0#56"/Users/sbarghshoon/Desktop/sonic-animation/../sonic9.jpg8611554752#491"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/sonic-animation/../sonic9.jpg /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app0#
+
+CGenerateDSYMFile /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app.dSYM /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic-animation
+s518462414.445802
+e518462414.457235
+r1
+xGenerateDSYMFile
+x/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app.dSYM
+x/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic-animation
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/sonic-animation.app.dSYM build/Debug-iphonesimulator/sonic-animation.app/sonic-animation518462414#518462414#0(0"0(0#0#106"/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic-animation8612817568#419"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic-animation -o /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app.dSYM0#
+
+CLd /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic-animation normal i386
+s518462414.429979
+e518462414.445745
+r1
+xLd
+x/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic-animation
+xnormal
+xi386
+lSLF07#2@111"Link /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic-animation518462414#518462414#0(0"0(0#0#0"8614003552#960"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator -F/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator -filelist /Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/Objects-normal/i386/sonic-animation.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/sonic-animation0#
+
+CProcessInfoPlistFile /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/Info.plist sonic_animation-Info.plist
+s518462397.461586
+e518462397.466467
+r1
+xProcessInfoPlistFile
+x/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/Info.plist
+xsonic_animation-Info.plist
+lSLF07#2@34"Process sonic_animation-Info.plist518462397#518462397#0(0"0(0#0#69"/Users/sbarghshoon/Desktop/sonic-animation/sonic_animation-Info.plist31244160508756040#515"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility sonic_animation-Info.plist -genpkginfo /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app/Info.plist0#
+
+CProcessPCH /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/sonic_animation_Prefix-eaxpiinvyvwlwdemgjjicghpadhv/sonic_animation_Prefix.pch.gch sonic_animation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s518462397.817655
+e518462398.402860
+r1
+xProcessPCH
+x/var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/sonic_animation_Prefix-eaxpiinvyvwlwdemgjjicghpadhv/sonic_animation_Prefix.pch.gch
+xsonic_animation_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile sonic_animation_Prefix.pch518462397#518462398#0(0"0(0#0#69"/Users/sbarghshoon/Desktop/sonic-animation/sonic_animation_Prefix.pch8613940800#1998"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/sonic-animation-generated-files.hmap -I/Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/sonic-animation-own-target-headers.hmap -I/Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/sonic-animation-all-target-headers.hmap -iquote /Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/sonic-animation-project-headers.hmap -F/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator -I/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/include -I/Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/DerivedSources/i386 -I/Users/sbarghshoon/Desktop/sonic-animation/build/sonic-animation.build/Debug-iphonesimulator/sonic-animation.build/DerivedSources -c /Users/sbarghshoon/Desktop/sonic-animation/sonic_animation_Prefix.pch -o /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/sonic_animation_Prefix-eaxpiinvyvwlwdemgjjicghpadhv/sonic_animation_Prefix.pch.gch0#
+
+CTouch /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app
+s518462414.457295
+e518462414.459301
+r1
+xTouch
+x/Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app
+lSLF07#2@96"Touch /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app518462414#518462414#0(0"0(0#0#0"8612628416#294"    cd /Users/sbarghshoon/Desktop/sonic-animation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sbarghshoon/Desktop/sonic-animation/build/Debug-iphonesimulator/sonic-animation.app0#
+
